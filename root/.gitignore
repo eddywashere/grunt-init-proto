@@ -1,0 +1,20 @@
+/_site
+
+/node_modules
+npm-debug.log
+*.sassc
+.sass-cache/
+
+# OS generated files #
+######################
+/tmp
+doc/
+*.swp
+*~
+.svn
+.project
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+.DS_Store

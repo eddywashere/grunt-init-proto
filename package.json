@@ -1,0 +1,43 @@
+
+{
+  "name": "grunt-init-proto",
+  "version": "1.0.0",
+  "description": "grunt-init template for a jekyll static site. Include compass support.",
+  "homepage": "https://github.com/eddywashere/grunt-init-proto",
+  "author": {
+    "name": "Eddy Hernandez",
+    "url": "https://github.com/eddywashere"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/eddywashere/grunt-init-proto.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eddywashere/grunt-init-proto/issues"
+  },
+  "main": "template.js",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "keywords": [
+    "generator",
+    "grunt init",
+    "grunt templates",
+    "init",
+    "markdown",
+    "site generator",
+    "static",
+    "prototyping",
+    "bower",
+    "compass"
+  ]
+}
