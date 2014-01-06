@@ -52,7 +52,7 @@ exports.template = function(grunt, init, done) {
       "grunt-contrib-watch": "*",
       "grunt": "*",
       "grunt-cli": "*",
-      "grunt-contrib-connect": "~0.6.0",
+      "grunt-contrib-connect": "*",
       "grunt-contrib-compass": "*",
       "grunt-exec": "*",
       "grunt-contrib-copy": "*",
@@ -85,7 +85,7 @@ exports.template = function(grunt, init, done) {
     }
 
     // Generate bower.json file.
-    init.writePackageJSON('bower.json',   bower);
+    init.writePackageJSON('bower.json', bower);
 
     // Generate package.json file.
     init.writePackageJSON('package.json', props);
