@@ -60,7 +60,7 @@ module.exports = function(grunt) {
         }
       },
       scss: {
-        files: ['scss/*.scss'],
+        files: ['scss/**/*.scss'],
         tasks: ['compass', 'copy:css'],
         options: {
           livereload: true
