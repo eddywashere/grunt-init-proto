@@ -1,7 +1,7 @@
 
 {
   "name": "grunt-init-proto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "grunt-init template for a jekyll static site. Include compass support.",
   "homepage": "https://github.com/eddywashere/grunt-init-proto",
   "author": {
